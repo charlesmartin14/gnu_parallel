@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-$:.push File.expand_path("../lib", __FILE__)  # bin?  
+$:.push File.expand_path("../lib", __FILE__)  
 require "gnu_parallel/version"
 
 Gem::Specification.new do |s|
